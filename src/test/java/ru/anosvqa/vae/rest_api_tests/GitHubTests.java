@@ -1,6 +1,5 @@
 package ru.anosvqa.vae.rest_api_tests;
 
-import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import retrofit2.Response;
