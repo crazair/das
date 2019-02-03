@@ -1,4 +1,4 @@
-package ru.anosvqa.das.rest_api_tests.desc;
+package ru.anosvqa.vae.rest_api_tests.desc;
 
 import retrofit2.Call;
 import retrofit2.http.GET;

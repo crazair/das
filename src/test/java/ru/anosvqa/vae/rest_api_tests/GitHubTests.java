@@ -1,11 +1,12 @@
-package ru.anosvqa.das.rest_api_tests;
+package ru.anosvqa.vae.rest_api_tests;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
-import ru.anosvqa.das.rest_api_tests.desc.*;
+import ru.anosvqa.vae.rest_api_tests.desc.*;
+
 import java.util.List;
 
 /**

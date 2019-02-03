@@ -4,13 +4,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>ru.anosvqa.das</groupId>
-    <artifactId>das</artifactId>
+    <groupId>ru.anosvqa.vae</groupId>
+    <artifactId>various_autotests_exx</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>das</name>
-    <url>https://github.com/crazair/das</url>
+    <url>https://github.com/crazair/various_autotests_exx</url>
 
     <properties>
         <java.version>1.8</java.version>
