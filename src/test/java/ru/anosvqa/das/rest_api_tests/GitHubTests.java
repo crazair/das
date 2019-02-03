@@ -18,7 +18,7 @@ public class GitHubTests {
     private static final String USER_NAME = "crazair";
 
     @Test
-    @DisplayName("Пример теста на REST запрос с испольхованием типобезопасного HTTP-клиента Retrofit")
+    @DisplayName("Пример теста на REST запрос с использованием типобезопасного HTTP-клиента Retrofit")
     public void testRepository() throws Exception {
         Retrofit retrofit = new Retrofit.Builder()
                 .baseUrl(BASE_URL)                                      //Базовая часть адреса
